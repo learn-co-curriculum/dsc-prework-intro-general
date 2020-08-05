@@ -36,7 +36,7 @@ not setup.
 Many people on Learn have already spent some time dabbling with coding and data analysis
 by using the amazing and plentiful resources all around the internet. In developing the
 content here on Learn, though, we make no assumptions about background. This prework content is
-designed for those who . Lessons build off each other, providing the
+designed for those who have analytic ability but not any  specific coding skill. Lessons build off each other, providing the
 tools and concepts necessary to complete future lessons.
 
 What we don't do, however, is dumb anything down. We believe in your infinite
